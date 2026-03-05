@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    background-color: #efefef;
+}
+
+header {
+    background-color: #364552;
+    color: white;
+    padding: 3rem 2rem;
+}
+
+body header article {
+    display: flex;
+    font-size: 1rem;
+}
+
+#cabecera {
+    text-align: center;
+}
+
+body header article img {
+    float: right;
+    margin-left: 15px ;
+
+}
+
+body article section table caption {
+    border: 1px solid black;
+    margin: 15px 0 0 0;
+}
+
+body article section table {
+    border: 1px solid black;
+}
+
+#right {
+    float: right;
+}
+
+footer {
+    background-color: #222;
+    padding: 3rem;
+    color: #fff;
+}
+
+#left {
+    float: left;
+}
+
+footer p {
+    margin: 0;
+}
+
