@@ -1,0 +1,21 @@
+body {
+    background: #6dd6e9;
+    font-family: sans-serif !important;
+}
+
+.bloques {
+    margin-top: 120px;
+    background: #e1ebec;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 10px rgba(0,0,0,1);
+}
+
+.img {
+    border-radius: 10px !important;
+}
+
+.color {
+    color: #117A65 !important;
+    /* margin: 5px !important; */
+}
