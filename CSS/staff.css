@@ -1,0 +1,24 @@
+body {
+    background: #6dd6e9;
+    font-family: sans-serif !important;
+    text-shadow: 0.2px -0.5px 1px;
+}
+
+.fondo {
+    background: #d4dcdd;
+    border-radius: 10px;
+    box-shadow: 0px 0px 30px rgba(0,0,0,0.5);
+    
+}
+
+.bloque {
+    border: black 1px solid;
+}
+
+.color {
+    background: #6dd6e9 !important;
+}
+
+.color1 {
+    background: #2a9eb3 !important;
+}
